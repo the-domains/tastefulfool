@@ -1,4 +1,3 @@
-layout_spectrum: 0.48942822334356606
 typography_spectrum: 0.4382912728469819
 color:
   brandColors:
@@ -11,19 +10,21 @@ color:
   lightness: 0.8788286251947284
   saturation: 0.10892844083718956
   rhythmicContrast: 0.019558773143216968
-name: tastefulfool
-favicon: null
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.48942822334356606
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: shadow selves
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
+title: null
 purpose: []
