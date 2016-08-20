@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: on the road
-    id: b80b9f6d-2384-4913-8262-40e2f5b0f920
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
 title: null
