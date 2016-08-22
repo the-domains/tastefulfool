@@ -4,19 +4,18 @@ description: >-
   husband. I have no idea whether she wanted others to read the thousands of
   pages after she died. Some, mice have eaten. Some spilled out of boxes in the
   chaos of many hands sorting through the things left.
-dateModified: '2016-08-20T13:12:40.616Z'
-datePublished: '2016-08-20T13:15:35.644Z'
+dateModified: '2016-08-22T14:18:29.999Z'
+datePublished: '2016-08-22T14:18:30.491Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-20-my-mother-wrote-copiously-in-longhand-journals-after-she-no.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: my-mother-wrote-copiously-in-longhand-journals-after-she-no/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc27b87d-b7df-4ec2-81b6-3e477521b49d.jpg)
