@@ -1,4 +1,3 @@
-layout_spectrum: 0.8404626669362187
 typography_spectrum: 0.5907681554090232
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8404626669362187
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Private Journal
+    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
 title: shadow
