@@ -1,4 +1,31 @@
+name: marydschultz
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
+layout_spectrum: 0.8404626669362187
 typography_spectrum: 0.5907681554090232
+author:
+  name: Mary Schultz
+  email: marydschultz@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
+navigation:
+  - name: Private Journal
+    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
+    type: content
+title: ''
+description: selves
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E6E2AF'
@@ -7,34 +34,7 @@ color:
     - '#046380'
     - '#002F2F'
   brandStrength: 0.6209884125273675
-  lightness: 0.5570321513805538
+  lightness: 1
   saturation: 0.27921019960194826
   rhythmicContrast: 0.22520727687515318
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.8404626669362187
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Mary Schultz
-  email: marydschultz@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
-name: marydschultz
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Private Journal
-    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
-title: ''
-description: selves
 purpose: []
