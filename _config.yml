@@ -1,40 +1,40 @@
-typography_spectrum: 0.5907681554090232
-color:
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.6209884125273675
-  lightness: 0.6875
-  saturation: 0.27921019960194826
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: marydschultz
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
 layout_spectrum: 0.8404626669362187
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.5907681554090232
 author:
   name: Mary Schultz
   email: marydschultz@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
-name: marydschultz
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Private Journal
     id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
 title: marydschultz
 description: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f2d7a2'
+    - '#d7bb89'
+    - '#a9b2b6'
+    - '#bb8c62'
+    - '#6c684d'
+  brandStrength: 0.6209884125273675
+  lightness: 0.6875
+  saturation: 0.27921019960194826
+  rhythmicContrast: 1
 purpose: []
