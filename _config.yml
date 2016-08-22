@@ -19,7 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: shadow selves
+author:
+  name: Mary Schultz
+  email: marydschultz@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
+name: marydschultz
 cta:
   domain: null
   bucket: null
@@ -30,6 +35,6 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
-title: shadow
+title: ''
 description: selves
 purpose: []
