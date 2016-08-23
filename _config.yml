@@ -1,4 +1,3 @@
-layout_spectrum: 0.8404626669362187
 typography_spectrum: 0.9485187693499029
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8404626669362187
 analytics:
   google: null
   facebook: null
@@ -35,6 +35,6 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b224ef5-e42f-47b4-bd75-69f9b39e5947.jpg
-title: tastefulfool
+title: marydschultz
 description: ''
 purpose: []
