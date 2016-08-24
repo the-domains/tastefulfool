@@ -1,4 +1,30 @@
+name: marydschultz
+favicon: null
+layout_spectrum: 0
 typography_spectrum: 0.9485187693499029
+author:
+  name: Mary Schultz
+  email: marydschultz@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
+navigation:
+  - name: Private Journal
+    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
+    type: content
+title: marydschultz
+description: marydschultz@gmail.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -10,30 +36,4 @@ color:
   lightness: 0.6182903337758034
   saturation: 0.9579951325431466
   rhythmicContrast: 0.7758354335092008
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.8404626669362187
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Mary Schultz
-  email: marydschultz@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
-name: marydschultz
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Private Journal
-    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
-    type: content
-favicon: null
-title: marydschultz
-description: marydschultz@gmail.com
 purpose: []
