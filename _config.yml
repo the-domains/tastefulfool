@@ -1,4 +1,3 @@
-layout_spectrum: 0.6118712399620563
 typography_spectrum: 0.05780722969211638
 color:
   brandColors:
@@ -11,29 +10,33 @@ color:
   lightness: 0.3537912105675787
   saturation: 0.92343406425789
   rhythmicContrast: 0.5654070584569126
-name: marydschultz
-favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6118712399620563
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: Mary Schultz
   email: marydschultz@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5a35ba-bfba-454a-ab8f-d5c0bee8377e.jpg
-navigation:
-  - name: Private Journal
-    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
-    type: content
-title: marydschultz
-description: marydschultz@gmail.com
+name: marydschultz
 cta:
   domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+navigation:
+  - name: Private Journal
+    id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
+    type: content
+  - name: shadow selves
+    id: 1567a661-50f5-4250-a30e-84b0e53fc5eb
+    type: content
+favicon: null
+title: marydschultz
+description: marydschultz@gmail.com
 purpose: []
