@@ -1,15 +1,17 @@
 ---
+id: 86fa846c-6699-4008-9113-96110d47adbe
+dateModified: '2016-08-25T11:56:10.356Z'
+title: 'Ariel, windy evening high desert'
+datePublished: '2016-08-25T11:56:10.478Z'
+author: []
+isBasedOnUrl: null
 description: >-
   This is a favorite photo. I like the small light to the left of the image.
   Someone is making their way up the long hill into the mountains about Anza
   Borrego Desert.
-dateModified: '2016-08-22T14:41:07.353Z'
-datePublished: '2016-08-22T15:08:37.405Z'
-title: 'Ariel, windy evening high desert'
-author: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-08-22-ariel-windy-evening-high-desert.md
 inFeed: true
 hasPage: false
