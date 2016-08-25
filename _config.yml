@@ -30,7 +30,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: private Journal
+  - name: private journal
     id: 4072e79e-eea6-4bd5-ab9d-ecd789471b14
     type: content
   - name: shadow selves
