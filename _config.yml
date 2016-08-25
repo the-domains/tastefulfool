@@ -1,7 +1,18 @@
+layout_spectrum: 0.6118712399620563
+typography_spectrum: 0.05780722969211638
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.30762681388296187
+  lightness: 0.3537912105675787
+  saturation: 0.92343406425789
+  rhythmicContrast: 0.5654070584569126
 name: marydschultz
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.9485187693499029
 author:
   name: Mary Schultz
   email: marydschultz@gmail.com
@@ -25,15 +36,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  brandStrength: 0
-  lightness: 0.6182903337758034
-  saturation: 0.9579951325431466
-  rhythmicContrast: 0.7758354335092008
 purpose: []
