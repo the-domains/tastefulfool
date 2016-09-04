@@ -30,9 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: shadow selves
-    id: 1567a661-50f5-4250-a30e-84b0e53fc5eb
-    type: content
   - name: on the road
     id: 4715b139-1199-48d1-b3eb-448b96cab518
     type: content
