@@ -29,10 +29,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: on the road
-    id: 4715b139-1199-48d1-b3eb-448b96cab518
-    type: content
 favicon: null
 title: marydschultz
 description: marydschultz@gmail.com
